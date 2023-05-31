@@ -43,7 +43,7 @@ The project provides the following API endpoints:
 
 ## Contributing and License
 
-If you encounter any issues or wish to contribute to the project, please submit an issue or pull request. The project is licensed under the [MIT License](link-to-license).
+If you encounter any issues or wish to contribute to the project, please submit an issue or pull request. The project is licensed under the [MIT License](Zicheng-Li/employees-management-projectt/LICENSE).
 
 ## Links and Resources
 
