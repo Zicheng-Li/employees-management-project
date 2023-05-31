@@ -40,7 +40,6 @@ The project provides the following API endpoints:
 - PUT `/employees/showFormForUpdate/{id}`: Update specific employee information.
 - DELETE `/employees/delete/{id}`: Delete a specific employee.
 
-For detailed API documentation, refer to [API Docs](link-to-api-docs).
 
 ## Contributing and License
 
