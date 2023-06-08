@@ -1,4 +1,4 @@
-package com.luv2code.springboot.thymeleafdemo.entity;
+package com.lzc.springboot.thymeleafdemo.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
